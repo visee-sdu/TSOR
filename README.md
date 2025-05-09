@@ -7,7 +7,7 @@
 
 2. Install Matterport3D simulators: follow instructions [here](https://github.com/peteanderson80/Matterport3DSimulator).
 
-3. Download data from [here](https://github.com/peteanderson80/Matterport3DSimulator), Put the data in `datasets` directory.
+3. Download data from [here](https://pan.baidu.com/s/1fvxyd9o2rKM1TNIyNm7Lcg?pwd=mgdj), Put the data in `datasets` directory.
 
 ## Pre-training
 ```
