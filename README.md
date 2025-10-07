@@ -42,6 +42,6 @@ If you find this work useful in your research, please cite the following paper:
 
 # APA
 [1] Huang, B. ,  Zheng, Y. ,  Lan, C. ,  Zhao, X. ,  Zou, Y. , &  Yu, D. . (2024). Temporal-spatial object relations modeling for vision-and-language navigation.
-
+```
 ## Acknowledgement
 Codebase from [DUET](https://github.com/cshizhe/VLN-DUET).
